@@ -1,5 +1,11 @@
 {
 	"schema" : "environment.schema.json",
     "variables" : {
+      "DUMAOS_RELEASE_FALlBACK": "",
+      "DUMAOS_RELEASE": "",
+      "ND-DEV_IP": "",
+      "ND_DEV_SYNC_PATH": "",
+      "ND_DEV_EMAIL" : "eyitope.adelow@netduma.com",
+      "ND_PACKAGE": ""
     }
 }
